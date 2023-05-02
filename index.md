@@ -19,7 +19,7 @@ Predicts the severity of a given power outage based on various attributes. This 
 
 ### Category Name 2
 
-- [Power Outage Prediction Model]([[http://example.com/](https://github.com/sidneyhendricks/power_outage_project)
+- [Power Outage Prediction Model](https://github.com/sidneyhendricks/power_outage_project)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -30,6 +30,3 @@ Predicts the severity of a given power outage based on various attributes. This 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
