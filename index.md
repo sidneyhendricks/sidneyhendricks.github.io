@@ -4,7 +4,7 @@
 
 ### Projects in Data Science and Machine Learning 
 
-[Power Outage Severity Prediction Model](/sample_page)
+[Power Outage Prediction Model](https://github.com/sidneyhendricks/power_outage_project)
 Predicts the severity of a given power outage based on various attributes. This model uses a Random Forest Regression as its main method of prediction and evaluates the accuracy on a testing dataset. 
 
 ---
