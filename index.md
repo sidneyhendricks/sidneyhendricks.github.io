@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects in Data Science and Machine Learning 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Power Outage Severity Prediction Model](/sample_page)
+Predicts the severity of a given power outage based on various attributes. This model uses a Random Forest Regression as its main method of prediction and evaluates the accuracy on a testing dataset. 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Power Outage Prediction Model]([http://example.com/](https://github.com/sidneyhendricks/power_outage_project))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
